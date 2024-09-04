@@ -1,5 +1,3 @@
-from operator import truediv
-
 hot_drinks_list = ["Koffie", "Cappuccino" , "Chocolade melk"]
 cold_drinks_list = ["Coca Cola", "Cola Zero" , "7-Up", "Fanta","Fristi"]
 burgers_list = ["Hamburger", "Cheeseburger", "Big Mac", "Quater Pounder"]
